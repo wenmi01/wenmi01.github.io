@@ -1,3 +1,10 @@
+html,body{
+    height: 100%;
+    width: 100%; 
+}
+
+
+
 /* hero background image */
 .bgimage {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./images/lighthouse_001.jpg');
@@ -33,6 +40,10 @@
 /* about section image css */
 .imageAboutPage {
   width: 100%;
+}
+
+.circle-logo {
+    margin-top:7px;
 }
 
 /* services section css */
